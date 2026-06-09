@@ -39,7 +39,7 @@ After cleaning the dataset, the data became more accurate and reliable. The fina
 
 ## Author
 
-Sia Dhawan
+Siya Dhawan
 
 Data Analytics Intern
 
